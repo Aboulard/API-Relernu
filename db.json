@@ -24,6 +24,11 @@
       "id": 5,
       "name": "Valentin",
       "age": 22
+    },
+    {
+      "id": 6,
+      "name": "Michel",
+      "age": 750
     }
   ]
 }
